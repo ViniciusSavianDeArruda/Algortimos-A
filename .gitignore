@@ -1,2 +1,28 @@
-node_modules/
-.env
+# Arquivos executáveis
+*.exe
+*.out
+*.o
+*.obj
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos do IDE
+*.dev
+*.layout
+*.depend
+*.cbp
+
+# Arquivos de backup
+*~
+*.bak
+*.tmp
+
+# Pastas de build
+build/
+bin/
+obj/
+
+# Arquivos de log
+*.log

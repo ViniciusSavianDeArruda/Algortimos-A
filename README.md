@@ -1,7 +1,23 @@
 # 🧩 Exercícios em C e C++
 
-Repositório com exercícios desenvolvidos durante a graduação em **Sistemas de Informação** na UFN.  
+Repositório organizado com exercícios desenvolvidos durante a graduação em **Sistemas de Informação** na UFN.  
 Contém códigos em **C** e **C++**, voltados ao aprendizado de lógica de programação e estruturas fundamentais das linguagens.
+
+## 📁 Estrutura do Repositório
+
+```
+📦 Linguagem-C/
+├── 📂 exercicios-c/           # Exercícios em linguagem C
+│   ├── 📂 listas/             # Listas de exercícios
+│   ├── 📂 atividades/         # Atividades práticas
+│   ├── 📂 trabalhos/          # Trabalhos e projetos
+│   └── 📂 produtos-aprendizagem/ # Produtos avaliativos
+├── 📂 exercicios-cpp/         # Exercícios em linguagem C++
+│   └── 📂 atividades/         # Atividades práticas
+├── 📂 docs/                   # Documentação e guias
+│   └── 📄 guia-completo-c.md  # Guia completo da linguagem C
+└── 📄 README.md               # Este arquivo
+```
 
 ## 📚 Tópicos abordados
 
@@ -11,7 +27,9 @@ Contém códigos em **C** e **C++**, voltados ao aprendizado de lógica de progr
 - 🔁 Estruturas de repetição (`for`, `while`, `do-while`) 
 - 🔀 Estruturas condicionais (`if`, `else`, `switch`)  
 - 📦 Vetores e matrizes
-- Strings
+- 🔤 Strings e manipulação de caracteres
+- 🧮 Funções e procedimentos
+- 📊 Estruturas de dados básicas
 
 ## 🛠️ Requisitos
 
@@ -30,11 +48,8 @@ Para compilar e executar os códigos, é necessário ter um compilador de C/C++ 
 #### 🔹 Compilar e executar códigos em C
 
 ```bash
-# Clone o repositório
-git clone https://github.com/ViniciusSavianDeArruda/Linguagem-C.git
-
 # Acesse a pasta de exercícios em C
-cd Linguagem-C/exercicios-c
+cd exercicios-c
 
 # Compile um arquivo (exemplo: exercicio1.c)
 gcc exercicio1.c -o exercicio1
@@ -49,7 +64,7 @@ gcc exercicio1.c -o exercicio1
 
 ```bash
 # Acesse a pasta de exercícios em C++
-cd Linguagem-C/exercicios-cpp
+cd exercicios-cpp
 
 # Compile um arquivo (exemplo: exercicio1.cpp)
 g++ exercicio1.cpp -o exercicio1
@@ -59,6 +74,21 @@ g++ exercicio1.cpp -o exercicio1
 ```
 
 💡 **Nota:** No Windows, o comando para executar pode ser `exercicio1.exe` ao invés de `./exercicio1`.
+
+## 📖 Documentação
+
+- 📄 **[Guia Completo da Linguagem C](docs/guia-completo-c.md)** - Material de estudo completo com exemplos práticos
+
+## 🎯 Navegação Rápida
+
+### 🔤 Exercícios em C
+- [📋 Listas de Exercícios](exercicios-c/listas/)
+- [📝 Atividades Práticas](exercicios-c/atividades/)
+- [📊 Trabalhos](exercicios-c/trabalhos/)
+- [🎯 Produtos de Aprendizagem](exercicios-c/produtos-aprendizagem/)
+
+### ➕ Exercícios em C++
+- [📝 Atividades](exercicios-cpp/atividades/)
 
 ---
 
@@ -106,4 +136,3 @@ Depois de enviar as alterações, abra um PR para que eu possa revisar. Descreva
 
 Este repositório é destinado exclusivamente a fins acadêmicos e de aprendizado.  
 Fique à vontade para explorar os códigos como base para seus estudos. 😊
-
