@@ -12,8 +12,6 @@ Contém códigos em **C** e **C++**, voltados ao aprendizado de lógica de progr
 │   ├── 📂 atividades/         # Atividades práticas
 │   ├── 📂 trabalhos/          # Trabalhos e projetos
 │   └── 📂 produtos-aprendizagem/ # Produtos avaliativos
-├── 📂 exercicios-cpp/         # Exercícios em linguagem C++
-│   └── 📂 atividades/         # Atividades práticas
 ├── 📂 docs/                   # Documentação e guias
 │   └── 📄 guia-completo-c.md  # Guia completo da linguagem C
 └── 📄 README.md               # Este arquivo
@@ -21,8 +19,8 @@ Contém códigos em **C** e **C++**, voltados ao aprendizado de lógica de progr
 
 ## 📚 Tópicos abordados
 
-- 🧠 Lógica de programação  
-- ✍️ Sintaxe básica em C e C++  
+- 🧠 Lógica de programação
+- ✍️ Sintaxe básica em C
 - 🔢 Variáveis e tipos de dados  
 - 🔁 Estruturas de repetição (`for`, `while`, `do-while`) 
 - 🔀 Estruturas condicionais (`if`, `else`, `switch`)  
@@ -33,19 +31,18 @@ Contém códigos em **C** e **C++**, voltados ao aprendizado de lógica de progr
 
 ## 🛠️ Requisitos
 
-Para compilar e executar os códigos, é necessário ter um compilador de C/C++ instalado. Abaixo estão algumas opções recomendadas:
+Para compilar e executar os códigos, é necessário ter um compilador de C instalado. Abaixo estão algumas opções recomendadas:
 
 - [🔧 GCC (GNU Compiler Collection)](https://gcc.gnu.org/install/)  
-- [🔧 G++ (GNU C++ Compiler)](https://gcc.gnu.org/install/)  
 - [💻 MinGW (Windows)](https://sourceforge.net/projects/mingw/)  
-- [🧰 Visual Studio (com workload de C++)](https://visualstudio.microsoft.com/pt-br/)  
+- [🧰 Visual Studio (com workload de C)](https://visualstudio.microsoft.com/pt-br/)  
 - [🌐 OnlineGDB (editor/compilador online)](https://www.onlinegdb.com/)  
 - [👨‍💻 Dev-C++ (Windows)](https://sourceforge.net/projects/orwelldevcpp/)  
 
 
 ### 🚀 Como Executar
 
-#### 🔹 Compilar e executar códigos em C
+#### 🚀 Compilar e executar códigos em C
 
 ```bash
 # Acesse a pasta de exercícios em C
@@ -58,20 +55,6 @@ gcc exercicio1.c -o exercicio1
 ./exercicio1
 ```
 
----
-
-#### 🔸 Compilar e executar códigos em C++
-
-```bash
-# Acesse a pasta de exercícios em C++
-cd exercicios-cpp
-
-# Compile um arquivo (exemplo: exercicio1.cpp)
-g++ exercicio1.cpp -o exercicio1
-
-# Execute o programa
-./exercicio1
-```
 
 💡 **Nota:** No Windows, o comando para executar pode ser `exercicio1.exe` ao invés de `./exercicio1`.
 
@@ -81,14 +64,11 @@ g++ exercicio1.cpp -o exercicio1
 
 ## 🎯 Navegação Rápida
 
-### 🔤 Exercícios em C
+### 📚 Exercícios em C
 - [📋 Listas de Exercícios](exercicios-c/listas/)
 - [📝 Atividades Práticas](exercicios-c/atividades/)
 - [📊 Trabalhos](exercicios-c/trabalhos/)
 - [🎯 Produtos de Aprendizagem](exercicios-c/produtos-aprendizagem/)
-
-### ➕ Exercícios em C++
-- [📝 Atividades](exercicios-cpp/atividades/)
 
 ---
 
