@@ -5,10 +5,10 @@ int main() {
     char mensagem[101]; 
     int i, troca;
 
-    printf("Digite a mensagem (apenas letras maiúsculas): ");
+    printf("Digite a mensagem (apenas letras maiï¿½sculas): ");
     scanf("%100s", mensagem); 
 
-    printf("Digite o número de troca (deslocamento): ");
+    printf("Digite o nï¿½mero de troca (deslocamento): ");
     scanf("%d", &troca);
 
     for (i = 0; mensagem[i] != '\0'; i++) {
@@ -20,5 +20,5 @@ int main() {
 
     printf("Mensagem criptografada: %s\n", mensagem);
 
-    return 0;
+    return 0;
 }
