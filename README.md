@@ -10,7 +10,6 @@ Contém códigos em **C** e **C++**, voltados ao aprendizado de lógica de progr
 ├── 📂 exercicios-c/           # Exercícios em linguagem C
 │   ├── 📂 listas/             # Listas de exercícios
 │   ├── 📂 atividades/         # Atividades práticas
-│   ├── 📂 trabalhos/          # Trabalhos e projetos
 │   └── 📂 produtos-aprendizagem/ # Produtos avaliativos
 ├── 📂 docs/                   # Documentação e guias
 │   └── 📄 guia-completo-c.md  # Guia completo da linguagem C
@@ -67,7 +66,6 @@ gcc exercicio1.c -o exercicio1
 ### 📚 Exercícios em C
 - [📋 Listas de Exercícios](exercicios-c/listas/)
 - [📝 Atividades Práticas](exercicios-c/atividades/)
-- [📊 Trabalhos](exercicios-c/trabalhos/)
 - [🎯 Produtos de Aprendizagem](exercicios-c/produtos-aprendizagem/)
 
 ---

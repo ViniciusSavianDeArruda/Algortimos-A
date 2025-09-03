@@ -6,7 +6,6 @@ Esta pasta contém todos os exercícios desenvolvidos em linguagem C durante a d
 
 - **📋 listas/** - Listas de exercícios (Lista A, Lista B, etc.)
 - **📝 atividades/** - Atividades práticas da disciplina
-- **📊 trabalhos/** - Trabalhos e projetos maiores
 - **🎯 produtos-aprendizagem/** - Produtos de aprendizagem avaliativos
 
 ## 🚀 Como compilar
